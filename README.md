@@ -4,7 +4,7 @@ Welcome to **CoreTrack Ltd** - a UK-based digital product studio building softwa
 
 ---
 
-## 🚀 Flagship Product: [PawTrack](www.pawtrack.uk)
+## 🚀 Flagship Product: [PawTrack](https://www.pawtrack.uk)
 
 **PawTrack** is a pet service management platform that connects **Pet Parents** with trusted, independent **Pet Professionals**. From bookings and reviews to pet profiles and scheduling — it’s everything pet care needs, all in one place.
 
